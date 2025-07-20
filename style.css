@@ -1,0 +1,12 @@
+body {
+  font-family: "Hiragino Maru Gothic ProN", "ヒラギノ丸ゴ ProN W4", sans-serif;
+  background: #191919;
+  color: #D4D4D4;
+  font-size: 1rem;
+  padding: 16px;
+  text-align: center;
+  border-radius: 20px;
+  border: solid;
+  border-color: #2F2F2F;
+  box-shadow: 0 0 10px rgba(128,128,128,0.1);
+}
