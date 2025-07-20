@@ -10,3 +10,13 @@ body {
   border-color: #2F2F2F;
   box-shadow: 0 0 10px rgba(128,128,128,0.1);
 }
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1s forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
